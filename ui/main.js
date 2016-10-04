@@ -3,7 +3,7 @@ var element=document.getElementById("main-text");
 
 //move the image
 
-var img=document.getElementById('sag');
+var img=document.getElementById('madi');
 img.onclick=function(){
     img.style.marginLeft="100px";
     
